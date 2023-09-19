@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: yara-image
+  annotations:
+    github.com/project-slug: brianwcook/yara-image
+spec:
+  type: other
+  lifecycle: unknown
