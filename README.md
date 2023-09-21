@@ -4,5 +4,5 @@ This repo builds an image which has a functional yara scanner in it.  It also do
 
 The intent of this task is to be used in a future Tekton task for scanning container images for malware using Yara.
 
-
+Note: the yara rules trigger ClamAV's pattern matching!
 
